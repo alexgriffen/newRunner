@@ -1,0 +1,14 @@
+{
+  "name": "newrunner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test-screener": "screener-runner --conf screener.config.js"
+  },
+  "author": "AlexGriffen",
+  "license": "ISC",
+  "devDependencies": {
+    "screener-runner": "^0.10.42"
+  }
+}
